@@ -1,0 +1,7 @@
+.header-logo {
+    width: 120px; /* Smaller logo size for mobile */
+}
+
+.custom-button {
+    padding: 0.5rem 1rem; /* Smaller button for mobile */
+}
